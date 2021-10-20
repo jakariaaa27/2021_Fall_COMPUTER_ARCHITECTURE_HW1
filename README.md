@@ -1,2 +1,6 @@
 # 2021_Fall_COMPUTER_ARCHITECTURE_HW1
 2021_Fall_COMPUTER_ARCHITECTURE_HW1
+
+**Name        : Jakaria 杰凱力艾**
+
+**Student_ID  : P76107077**
